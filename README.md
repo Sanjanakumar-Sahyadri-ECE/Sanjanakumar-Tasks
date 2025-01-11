@@ -9,3 +9,5 @@
 # Task 1 
 ## C based lab screenshot 
 ![Screenshot from 2025-01-08 07-39-15](https://github.com/user-attachments/assets/4edbeca0-41b2-4aa2-bb66-c5a00f0a4aeb)
+## RISC-V based lab screenshots
+
