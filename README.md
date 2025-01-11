@@ -10,4 +10,7 @@
 ## C based lab screenshot 
 ![Screenshot from 2025-01-08 07-39-15](https://github.com/user-attachments/assets/4edbeca0-41b2-4aa2-bb66-c5a00f0a4aeb)
 ## RISC-V based lab screenshots
+![Screenshot from 2025-01-08 08-50-10](https://github.com/user-attachments/assets/ca7a83f5-3d3c-4396-904b-f81b29766011)
+![Screenshot from 2025-01-08 08-50-16](https://github.com/user-attachments/assets/ee94ddea-3269-4a6d-a872-1bf473e46e82)
+![Screenshot from 2025-01-09 23-05-34](https://github.com/user-attachments/assets/2e1552ae-c29f-48dd-8167-6e141f8ea914)
 
